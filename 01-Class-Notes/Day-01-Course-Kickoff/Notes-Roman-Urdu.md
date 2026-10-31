@@ -336,6 +336,8 @@ Pehlay sections 6–8 parhein aur apnay alfaaz mein samjhayen. Phir 15-server ca
 
 Pehlay jawab bol kar dein, phir relevant section dobara parhein.
 
+- [Answers](/05-Revision/Day-01/Infrastructure-Revision-Answers-Roman-Urdu.md)
+
 <a id="section-18"></a>
 
 ## 18. Technical references

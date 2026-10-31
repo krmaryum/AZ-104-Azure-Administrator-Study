@@ -374,6 +374,8 @@ Recommended order: read sections 6–8; explain them aloud; study the 15-server 
 
 Try answering aloud before reviewing the relevant section.
 
+- [Answers](/05-Revision/Day-01/Infrastructure-Revision-Answers-English.md)
+
 <a id="section-18"></a>
 
 ## 18. Technical References
