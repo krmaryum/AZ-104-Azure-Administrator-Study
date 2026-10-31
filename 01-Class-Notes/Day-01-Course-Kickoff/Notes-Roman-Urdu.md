@@ -190,7 +190,7 @@ Lecture mein domain controller, DNS, DHCP, file, print, database aur web roles k
 
 ### Power Distribution
 
-**PSU = Power Supply Unit**, Platform Service Unit nahin. **PDU = Power Distribution Unit**. PDU rack ke equipment mein power distribute karti hai. Enterprise PDU ko sirf ghar ke extension board ke barabar na samjhein.
+**PSU = Power Supply Unit**, Platform Service Unit nahin. **PDU = Power Distribution Unit(power extention board)**. PDU rack ke equipment mein power distribute karti hai. Enterprise PDU ko sirf ghar ke extension board ke barabar na samjhein.
 
 ### Mushtarka Failure Dependencies
 
