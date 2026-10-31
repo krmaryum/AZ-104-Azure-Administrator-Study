@@ -323,6 +323,7 @@ The lecture's urgent CPU scenario teaches prompt engagement. **Clarification:** 
 | Hypervisor | Software/platform managing virtual machines on hosts |
 | AVD | Azure Virtual Desktop |
 | VDI | Virtual Desktop Infrastructure |
+| Resource | A managed infrastructure component or service|
 | Resource group | Azure logical container for related resources |
 | Governance | Organizational rules and controls over resources and operations |
 | PSU | Power Supply Unit |

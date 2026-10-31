@@ -290,6 +290,7 @@ CPU percentage akeli P1 decide nahin karti; business impact, urgency, duration a
 | Hypervisor | Hosts par VMs manage karnay wala platform |
 | AVD | Azure Virtual Desktop |
 | VDI | Virtual Desktop Infrastructure |
+| Resource | Aisa component ya service hai jisay manage kiya jata hai|
 | Resource group | Related Azure resources ka logical container |
 | Governance | Organizational rules aur controls |
 | PSU | Power Supply Unit |
