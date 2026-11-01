@@ -6,6 +6,7 @@ Revision 2 expands the notes using captions from 00:02 through 01:23:41. The fin
 - [English notes](Notes-English.md)
 - [Roman Urdu notes](Notes-Roman-Urdu.md)
 - [Planning exercise and revision](Practice-and-Revision.md)
+- https://youtu.be/9Jk06-FvvH8
 
 ## Reading order
 1. Read physical/virtual/cloud, AVD, resources and monitoring.
