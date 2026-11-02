@@ -9,6 +9,9 @@ and Roman Urdu notes, hands-on labs, troubleshooting, and revision.
 - [Progress Tracker](00-Course-Overview/Progress-Tracker.md)
 - [Day 01 — English](01-Class-Notes/Day-01-Course-Kickoff/Notes-English.md)
 - [Day 01 — Roman Urdu](01-Class-Notes/Day-01-Course-Kickoff/Notes-Roman-Urdu.md)
+- [Home Broadband vs Dedicated Internet — English](02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md)
+- [Home Broadband vs Dedicated Internet — Roman Urdu](02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md)
+
 
 ## Repository Sections
 
