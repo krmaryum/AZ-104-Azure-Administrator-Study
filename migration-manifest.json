@@ -1,0 +1,765 @@
+{
+  "sources": [
+    {
+      "source": ".gitignore",
+      "destination": ".gitignore",
+      "source_sha256": "8970cc79ed45927a9e159cc5fb1dcb4f0270bfec22bb1314651327f17ae5fd0c",
+      "result_sha256": "8970cc79ed45927a9e159cc5fb1dcb4f0270bfec22bb1314651327f17ae5fd0c",
+      "preserved_original": ".gitignore",
+      "action": "preserve",
+      "normalized_source_sha256": "8970cc79ed45927a9e159cc5fb1dcb4f0270bfec22bb1314651327f17ae5fd0c"
+    },
+    {
+      "source": "00-Course-Overview/Progress-Tracker.md",
+      "destination": "00-Course-Overview/Progress-Tracker.md",
+      "source_sha256": "73a58e6ced051e7ff84dc90458c7cc6da0d244b581371f061c941febb798a3dd",
+      "result_sha256": "98a3b6742b79c754a571a4e85e860c2b9fefe1ab6d136663c6f4ac61c3e9a725",
+      "preserved_original": "Migration_Archive/Original_Files/00-Course-Overview/Progress-Tracker.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "73a58e6ced051e7ff84dc90458c7cc6da0d244b581371f061c941febb798a3dd"
+    },
+    {
+      "source": "00-Course-Overview/Study-Plan.md",
+      "destination": "00-Course-Overview/Study-Plan.md",
+      "source_sha256": "2204830750a828db3866559121c9a800ebf8583678ace47bfc53afb57dba78eb",
+      "result_sha256": "2204830750a828db3866559121c9a800ebf8583678ace47bfc53afb57dba78eb",
+      "preserved_original": "00-Course-Overview/Study-Plan.md",
+      "action": "preserve",
+      "normalized_source_sha256": "2204830750a828db3866559121c9a800ebf8583678ace47bfc53afb57dba78eb"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/00 Trainer_Introduction_2026.pdf",
+      "destination": "2026/day-01/Original_Assignment/00 Trainer_Introduction_2026.pdf",
+      "source_sha256": "a1e2f5880dcd34f3ed9b20483e143baa96357a1bd1c9278da1f5bdece5f910e4",
+      "result_sha256": "a1e2f5880dcd34f3ed9b20483e143baa96357a1bd1c9278da1f5bdece5f910e4",
+      "preserved_original": "2026/day-01/Original_Assignment/00 Trainer_Introduction_2026.pdf",
+      "action": "move",
+      "normalized_source_sha256": "a1e2f5880dcd34f3ed9b20483e143baa96357a1bd1c9278da1f5bdece5f910e4"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/01 Course AZ-104T00-A Microsoft Azure Administrator.pdf",
+      "destination": "2026/day-01/Original_Assignment/01 Course AZ-104T00-A Microsoft Azure Administrator.pdf",
+      "source_sha256": "592126e783f3b356ebca42ae7b2b3afb7932b20f3e990ae7a8a5599e60384ea8",
+      "result_sha256": "592126e783f3b356ebca42ae7b2b3afb7932b20f3e990ae7a8a5599e60384ea8",
+      "preserved_original": "2026/day-01/Original_Assignment/01 Course AZ-104T00-A Microsoft Azure Administrator.pdf",
+      "action": "move",
+      "normalized_source_sha256": "592126e783f3b356ebca42ae7b2b3afb7932b20f3e990ae7a8a5599e60384ea8"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/02 Course_Prerequisites.pdf",
+      "destination": "2026/day-01/Original_Assignment/02 Course_Prerequisites.pdf",
+      "source_sha256": "d6d07afdbb58557c47ee6f117110f6a207edb81df909cbabf14a420af965566d",
+      "result_sha256": "d6d07afdbb58557c47ee6f117110f6a207edb81df909cbabf14a420af965566d",
+      "preserved_original": "2026/day-01/Original_Assignment/02 Course_Prerequisites.pdf",
+      "action": "move",
+      "normalized_source_sha256": "d6d07afdbb58557c47ee6f117110f6a207edb81df909cbabf14a420af965566d"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/Day 01 \u2013 Course Kickoff & Orientation.txt",
+      "destination": "2026/day-01/Original_Assignment/Day 01 \u2013 Course Kickoff & Orientation.txt",
+      "source_sha256": "dbbcb33217c29ac480bc291a6b861b5ff4540747e7c83abac9f78ff0fc5f5f59",
+      "result_sha256": "dbbcb33217c29ac480bc291a6b861b5ff4540747e7c83abac9f78ff0fc5f5f59",
+      "preserved_original": "2026/day-01/Original_Assignment/Day 01 \u2013 Course Kickoff & Orientation.txt",
+      "action": "move",
+      "normalized_source_sha256": "8f607b4dec8f1f8a7c11335e07e7865b1486a8e384433d7e7fa5ae333ab96e9b"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/Notes-English.md",
+      "destination": "2026/day-01/Additional_Resources/Notes-English.md",
+      "source_sha256": "1f7c75f1e2f940128e15664570c8b534cd449176954eaf23c3ecb2278c7134c3",
+      "result_sha256": "eeb98bf1a2595de41bfd8337e112d2657c9b7499d1297b27bda8a3ba2137517b",
+      "preserved_original": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/Notes-English.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "1f7c75f1e2f940128e15664570c8b534cd449176954eaf23c3ecb2278c7134c3"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/Notes-Roman-Urdu.md",
+      "destination": "2026/day-01/Additional_Resources/Notes-Roman-Urdu.md",
+      "source_sha256": "e24e3eeae196f26b9bf125f7026467954058f02fec6a030a08684e01e6a60422",
+      "result_sha256": "ebcf5d160b6db5c3ab9c5408e21804d3575edc40e7038d4e3075f74d883881bd",
+      "preserved_original": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/Notes-Roman-Urdu.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "e24e3eeae196f26b9bf125f7026467954058f02fec6a030a08684e01e6a60422"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/Practice-and-Revision.md",
+      "destination": "2026/day-01/Additional_Resources/Practice-and-Revision.md",
+      "source_sha256": "6332cd6aa6ca2f6b79a70581ebe6a7dc7abc048ed1a176077a53bdd21a251a93",
+      "result_sha256": "6332cd6aa6ca2f6b79a70581ebe6a7dc7abc048ed1a176077a53bdd21a251a93",
+      "preserved_original": "2026/day-01/Additional_Resources/Practice-and-Revision.md",
+      "action": "move",
+      "normalized_source_sha256": "6332cd6aa6ca2f6b79a70581ebe6a7dc7abc048ed1a176077a53bdd21a251a93"
+    },
+    {
+      "source": "01-Class-Notes/Day-01-Course-Kickoff/README.md",
+      "destination": "2026/day-01/Additional_Resources/README.md",
+      "source_sha256": "dfb1f2c62be02e4c3b1791b09feddbeb9590232680e0c96cfdcb5c99c9ec8e05",
+      "result_sha256": "119d23f9a8044e9731e4456df16cc48955e781089ae009d9d591d6762bd9f3d5",
+      "preserved_original": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/README.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "dfb1f2c62be02e4c3b1791b09feddbeb9590232680e0c96cfdcb5c99c9ec8e05"
+    },
+    {
+      "source": "02-Topic-Notes/.gitkeep",
+      "destination": "Shared_Resources/Topic_Notes/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Shared_Resources/Topic_Notes/.gitkeep",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-English.md",
+      "destination": "Shared_Resources/Topic_Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-English.md",
+      "source_sha256": "e9456964a1e92e6bd780155286c771fa65db2063b5dca3ef964f48aa9710b483",
+      "result_sha256": "6a7b42278c0e517ebb1f1c854fa956d262e4cc2dea560cf1f2581e8b5b1027b4",
+      "preserved_original": "Migration_Archive/Original_Files/02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-English.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "e9456964a1e92e6bd780155286c771fa65db2063b5dca3ef964f48aa9710b483"
+    },
+    {
+      "source": "02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-Roman-Urdu.md",
+      "destination": "Shared_Resources/Topic_Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-Roman-Urdu.md",
+      "source_sha256": "e63e8090c27416b9df11d9a3ae698757b841ea502227228dc268bddf167fdc1a",
+      "result_sha256": "3418b5122ad2497592165ae4b42c14ea5422ebca70195eadca7994df85215438",
+      "preserved_original": "Migration_Archive/Original_Files/02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-Roman-Urdu.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "e63e8090c27416b9df11d9a3ae698757b841ea502227228dc268bddf167fdc1a"
+    },
+    {
+      "source": "02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md",
+      "destination": "Shared_Resources/Topic_Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md",
+      "source_sha256": "eff3e994b58c2e577aefa01f0855076bc069a8e30386ae7089545cca3d165a07",
+      "result_sha256": "26f103788a345f8a774d27966c30181de102977d0ffb524725a15d807758fcdd",
+      "preserved_original": "Migration_Archive/Original_Files/02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "eff3e994b58c2e577aefa01f0855076bc069a8e30386ae7089545cca3d165a07"
+    },
+    {
+      "source": "02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md",
+      "destination": "Shared_Resources/Topic_Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md",
+      "source_sha256": "32f87c1530f555bdce2fac3ac578c4b329b1a46145933f2430830c37341cf91b",
+      "result_sha256": "e98f4cf93c1177ef581ef9fb38370eaed3011af408953c9328d8349f5365ff32",
+      "preserved_original": "Migration_Archive/Original_Files/02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "32f87c1530f555bdce2fac3ac578c4b329b1a46145933f2430830c37341cf91b"
+    },
+    {
+      "source": "03-Labs/.gitkeep",
+      "destination": "Shared_Resources/Labs/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Shared_Resources/Labs/.gitkeep",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "04-Troubleshooting/.gitkeep",
+      "destination": "Shared_Resources/Troubleshooting/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Shared_Resources/Troubleshooting/.gitkeep",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "05-Revision/.gitkeep",
+      "destination": "05-Revision/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "05-Revision/.gitkeep",
+      "action": "preserve",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "05-Revision/Day-01/AZ-104-Day-01-Infrastructure-Data-Centers-and-SLA.html",
+      "destination": "2026/day-01/Additional_Resources/Revision/AZ-104-Day-01-Infrastructure-Data-Centers-and-SLA.html",
+      "source_sha256": "aaa5cc64012c184d5ea6987c0d004656f28f53b39701d32e6ba5df0d8179dd7b",
+      "result_sha256": "aaa5cc64012c184d5ea6987c0d004656f28f53b39701d32e6ba5df0d8179dd7b",
+      "preserved_original": "2026/day-01/Additional_Resources/Revision/AZ-104-Day-01-Infrastructure-Data-Centers-and-SLA.html",
+      "action": "move",
+      "normalized_source_sha256": "aaa5cc64012c184d5ea6987c0d004656f28f53b39701d32e6ba5df0d8179dd7b"
+    },
+    {
+      "source": "05-Revision/Day-01/Infrastructure-Revision-Answers-English.md",
+      "destination": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-English.md",
+      "source_sha256": "bbb5535a6ff3c83dab34537132210c8acd7536ed5e115cd1d8dff5563458b8e7",
+      "result_sha256": "bbb5535a6ff3c83dab34537132210c8acd7536ed5e115cd1d8dff5563458b8e7",
+      "preserved_original": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-English.md",
+      "action": "move",
+      "normalized_source_sha256": "bbb5535a6ff3c83dab34537132210c8acd7536ed5e115cd1d8dff5563458b8e7"
+    },
+    {
+      "source": "05-Revision/Day-01/Infrastructure-Revision-Answers-Roman-Urdu.md",
+      "destination": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-Roman-Urdu.md",
+      "source_sha256": "7a849189988de024732b29dc04311d2bf9420b55fbeb82b172a4cd28fee626c1",
+      "result_sha256": "7a849189988de024732b29dc04311d2bf9420b55fbeb82b172a4cd28fee626c1",
+      "preserved_original": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-Roman-Urdu.md",
+      "action": "move",
+      "normalized_source_sha256": "7a849189988de024732b29dc04311d2bf9420b55fbeb82b172a4cd28fee626c1"
+    },
+    {
+      "source": "05-Revision/Day-01/README.md",
+      "destination": "2026/day-01/Additional_Resources/Revision/README.md",
+      "source_sha256": "68325d9c595940044072b5f4f17c32d5fcd8d8d20398a72cadb89d0118c9582d",
+      "result_sha256": "553825b8b30531ddb64ebbdc00290da0b13d800a1878adf538d2e4f2e8096608",
+      "preserved_original": "Migration_Archive/Original_Files/05-Revision/Day-01/README.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "68325d9c595940044072b5f4f17c32d5fcd8d8d20398a72cadb89d0118c9582d"
+    },
+    {
+      "source": "06-Evidence/.gitkeep",
+      "destination": "Shared_Resources/Evidence/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Shared_Resources/Evidence/.gitkeep",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "07-Projects/.gitkeep",
+      "destination": "Shared_Resources/Projects/.gitkeep",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Shared_Resources/Projects/.gitkeep",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "day-07/Additional_Resources/Linux-Filesystem-and-Troubleshooting-Study-Guide.md",
+      "destination": "Review_Items/Unassigned_Linux_File/day-07/Additional_Resources/Linux-Filesystem-and-Troubleshooting-Study-Guide.md",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "preserved_original": "Review_Items/Unassigned_Linux_File/day-07/Additional_Resources/Linux-Filesystem-and-Troubleshooting-Study-Guide.md",
+      "action": "move",
+      "normalized_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "README.md",
+      "destination": "README.md",
+      "source_sha256": "2a30ea61cdf0bb6b4b7e665a0d572449adbd8ff409a2b499a09680cd99b30352",
+      "result_sha256": "5b2cd667e2691a1630a7672a1c60c4247d24a740cc5ad6ba68a53e90aae49358",
+      "preserved_original": "Migration_Archive/Original_Files/README.md",
+      "action": "move_and_update_links_or_index",
+      "normalized_source_sha256": "2a30ea61cdf0bb6b4b7e665a0d572449adbd8ff409a2b499a09680cd99b30352"
+    },
+    {
+      "source": "setup-azure-study.sh",
+      "destination": "Migration_Archive/Original_Setup/setup-azure-study.sh",
+      "source_sha256": "434d17e1a99020282eac40ad55675cf6abb880a6d245805274716ba9b1cf6b92",
+      "result_sha256": "434d17e1a99020282eac40ad55675cf6abb880a6d245805274716ba9b1cf6b92",
+      "preserved_original": "Migration_Archive/Original_Setup/setup-azure-study.sh",
+      "action": "move",
+      "normalized_source_sha256": "434d17e1a99020282eac40ad55675cf6abb880a6d245805274716ba9b1cf6b92"
+    }
+  ],
+  "empty_directories": [
+    "01-Class-Notes/Day-01-Course-Kickoff/01 AZ-104  Day 01 \u2013 Course Kickoff & Orientation"
+  ],
+  "payload": [
+    {
+      "path": ".gitignore",
+      "sha256": "8970cc79ed45927a9e159cc5fb1dcb4f0270bfec22bb1314651327f17ae5fd0c"
+    },
+    {
+      "path": "00-Course-Overview/Progress-Tracker.md",
+      "sha256": "98a3b6742b79c754a571a4e85e860c2b9fefe1ab6d136663c6f4ac61c3e9a725"
+    },
+    {
+      "path": "00-Course-Overview/Study-Plan.md",
+      "sha256": "2204830750a828db3866559121c9a800ebf8583678ace47bfc53afb57dba78eb"
+    },
+    {
+      "path": "05-Revision/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "2026/README.md",
+      "sha256": "8f55c8c4bf388fd76dc761b9193d7d231eaf43a5ed8616f0be84cb5fca68a5b7"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Notes-English.md",
+      "sha256": "eeb98bf1a2595de41bfd8337e112d2657c9b7499d1297b27bda8a3ba2137517b"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Notes-Roman-Urdu.md",
+      "sha256": "ebcf5d160b6db5c3ab9c5408e21804d3575edc40e7038d4e3075f74d883881bd"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Practice-and-Revision.md",
+      "sha256": "6332cd6aa6ca2f6b79a70581ebe6a7dc7abc048ed1a176077a53bdd21a251a93"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/README.md",
+      "sha256": "119d23f9a8044e9731e4456df16cc48955e781089ae009d9d591d6762bd9f3d5"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Revision/AZ-104-Day-01-Infrastructure-Data-Centers-and-SLA.html",
+      "sha256": "aaa5cc64012c184d5ea6987c0d004656f28f53b39701d32e6ba5df0d8179dd7b"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-English.md",
+      "sha256": "bbb5535a6ff3c83dab34537132210c8acd7536ed5e115cd1d8dff5563458b8e7"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Revision/Infrastructure-Revision-Answers-Roman-Urdu.md",
+      "sha256": "7a849189988de024732b29dc04311d2bf9420b55fbeb82b172a4cd28fee626c1"
+    },
+    {
+      "path": "2026/day-01/Additional_Resources/Revision/README.md",
+      "sha256": "553825b8b30531ddb64ebbdc00290da0b13d800a1878adf538d2e4f2e8096608"
+    },
+    {
+      "path": "2026/day-01/FILE_MOVE_MAP.csv",
+      "sha256": "1f4f05a21886054d85b9d597d6532c548c0d16a529b51a305410ef6d3ff2c5c4"
+    },
+    {
+      "path": "2026/day-01/Original_Assignment/00 Trainer_Introduction_2026.pdf",
+      "sha256": "a1e2f5880dcd34f3ed9b20483e143baa96357a1bd1c9278da1f5bdece5f910e4"
+    },
+    {
+      "path": "2026/day-01/Original_Assignment/01 Course AZ-104T00-A Microsoft Azure Administrator.pdf",
+      "sha256": "592126e783f3b356ebca42ae7b2b3afb7932b20f3e990ae7a8a5599e60384ea8"
+    },
+    {
+      "path": "2026/day-01/Original_Assignment/02 Course_Prerequisites.pdf",
+      "sha256": "d6d07afdbb58557c47ee6f117110f6a207edb81df909cbabf14a420af965566d"
+    },
+    {
+      "path": "2026/day-01/Original_Assignment/Day 01 \u2013 Course Kickoff & Orientation.txt",
+      "sha256": "dbbcb33217c29ac480bc291a6b861b5ff4540747e7c83abac9f78ff0fc5f5f59"
+    },
+    {
+      "path": "2026/day-01/Original_Assignment/README.md",
+      "sha256": "bc447381fef4fe7d20f21c433aa1e0eca8f9611027d429c0098762235f3a63a7"
+    },
+    {
+      "path": "2026/day-01/README.md",
+      "sha256": "fb15e3c08a90350d70b0b1a188a81c2da9a4290792e1960cacb8738575d34207"
+    },
+    {
+      "path": "2026/day-01/REVIEW_NOTES.md",
+      "sha256": "de93e2ba3ea7759f8ba7905271ee7a7ae7b504877f23758ef3d9940549fc9b0f"
+    },
+    {
+      "path": "2026/day-02/Additional_Resources/README.md",
+      "sha256": "7fb80c91a745f8a0871d40a6e6cc4ce42698cf163b6904c50b0f6071ddf57aa0"
+    },
+    {
+      "path": "2026/day-02/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-02/Original_Assignment/README.md",
+      "sha256": "76f8f71c90f1d4a7300a0e51dc50ce7122a9cbcdcb1111bbdfcaf0f81cff3fcf"
+    },
+    {
+      "path": "2026/day-02/README.md",
+      "sha256": "9f10151d6a5413fb7d17c5feac4b6a90fa88dbfa49f8fa38a9f81b3fc32f5b94"
+    },
+    {
+      "path": "2026/day-02/REVIEW_NOTES.md",
+      "sha256": "89c46ed3d408b0691ebeae839b6e0a86d53a5c393da3803296b0936cc1a43617"
+    },
+    {
+      "path": "2026/day-03/Additional_Resources/README.md",
+      "sha256": "9155ab713482d881f49f6cc67f3afb4bbffd8db8e52eb5d2cf56ec161c1989b5"
+    },
+    {
+      "path": "2026/day-03/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-03/Original_Assignment/README.md",
+      "sha256": "6d0469f1e077bb0a7749ed8f68d52b06ea04a16f269b8a5a13e2c38c06b27ce3"
+    },
+    {
+      "path": "2026/day-03/README.md",
+      "sha256": "f735ef8097e27fe60a10b5206f3538bcc7c5cd272b792608a8a9d72dee75327e"
+    },
+    {
+      "path": "2026/day-03/REVIEW_NOTES.md",
+      "sha256": "11865b9ba20ad1ecf4096906db282e33bc65b1d97690a4300d207577234afd3e"
+    },
+    {
+      "path": "2026/day-04/Additional_Resources/README.md",
+      "sha256": "c62d45ec0c8ace66c9424f52184f592fbfd44ad6e098515e6b576502ccd3747e"
+    },
+    {
+      "path": "2026/day-04/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-04/Original_Assignment/README.md",
+      "sha256": "81ede7a3de83bd6a2e5f44e873268bd583600d89176b855c3216008e4934ffaa"
+    },
+    {
+      "path": "2026/day-04/README.md",
+      "sha256": "a696507b4f3830d7dbcf14f6fd0921aaf6f464e49e0be791f99b7ade9740cf58"
+    },
+    {
+      "path": "2026/day-04/REVIEW_NOTES.md",
+      "sha256": "5c29d3b961ee4da486e6c975705c952d96c20c02b04c9a3087a694af216709fc"
+    },
+    {
+      "path": "2026/day-05/Additional_Resources/README.md",
+      "sha256": "2e1ff2b521b3ee64ea9731989c3d1608406e5c9e8ca2ecc211d39391f4cbf0b5"
+    },
+    {
+      "path": "2026/day-05/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-05/Original_Assignment/README.md",
+      "sha256": "51edfefa82c1be0e626283b34d9053830cd0f9114a8503fdb9923aaf30ae8435"
+    },
+    {
+      "path": "2026/day-05/README.md",
+      "sha256": "2601056e684e594f63cfde424acfce6a437f777ad42b8bdfa2e2073319019450"
+    },
+    {
+      "path": "2026/day-05/REVIEW_NOTES.md",
+      "sha256": "c5ef507b1e961288034f6c3ad3fde299c98e07d77b1a77a8647642673776288b"
+    },
+    {
+      "path": "2026/day-06/Additional_Resources/README.md",
+      "sha256": "9af37bc72813ce5d0967f42f7ffc3f7d474dc8b0a0ed2acf31c3c39dfc7258a6"
+    },
+    {
+      "path": "2026/day-06/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-06/Original_Assignment/README.md",
+      "sha256": "ce2053ffa28bc607a43655aaf9f01188519295c31135e27ec5739262d7af7eea"
+    },
+    {
+      "path": "2026/day-06/README.md",
+      "sha256": "55cab9d651ceeee20ab8c2000fbb2d257baef9e1175a4854dfca3f9cfa602aaf"
+    },
+    {
+      "path": "2026/day-06/REVIEW_NOTES.md",
+      "sha256": "fd6e9a4799d00b6db4d9806fa62014903c675fbd7e7afe839ab0ae63a2d4311f"
+    },
+    {
+      "path": "2026/day-07/Additional_Resources/README.md",
+      "sha256": "3ff3e01b7b9c9fea06f3b2f1308c1544792e9b3f6e182dde748ffb54f54dbe4b"
+    },
+    {
+      "path": "2026/day-07/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-07/Original_Assignment/README.md",
+      "sha256": "dc5a34aa26f127b7bd8df2ac03467beaf382b35ef098ab4792d30b3f4c186d25"
+    },
+    {
+      "path": "2026/day-07/README.md",
+      "sha256": "ea862e4e3248e9db8a76fd79fd0d2540427a7c79fce6873e90c838e533007720"
+    },
+    {
+      "path": "2026/day-07/REVIEW_NOTES.md",
+      "sha256": "dc101a428870f6c593a7d99e6552ac5087abf4b1727747bc4e62ae8f6d22331d"
+    },
+    {
+      "path": "2026/day-08/Additional_Resources/README.md",
+      "sha256": "4b15e935127e467876635ec3c244d055b30358ae104f83826e2134ef017edcbb"
+    },
+    {
+      "path": "2026/day-08/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-08/Original_Assignment/README.md",
+      "sha256": "57b5fc79d02c1b62f26d2732de658ef62af6e93b16ee238f4669563fc4a3c651"
+    },
+    {
+      "path": "2026/day-08/README.md",
+      "sha256": "b03e86321c2718fce831232e47c641df4809fc60f428373a48dbda85d99d0e43"
+    },
+    {
+      "path": "2026/day-08/REVIEW_NOTES.md",
+      "sha256": "aae0623c3cc7be459da667258e62cb21a336b0fbb320246e8de5fde54b219585"
+    },
+    {
+      "path": "2026/day-09/Additional_Resources/README.md",
+      "sha256": "1fa46d94a57334de6b3482dd6ccf0aa5d5d1b0e3c1e972f6905ac83f0f0bea11"
+    },
+    {
+      "path": "2026/day-09/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-09/Original_Assignment/README.md",
+      "sha256": "d0f21b64e9f1d7cbd75bbd234830e8ac6c5b75e044645adf62a68333b7cd0368"
+    },
+    {
+      "path": "2026/day-09/README.md",
+      "sha256": "c7a3f001e160a30ebe0354686361026686acbacba1af4ec7e4dc3926d54d3285"
+    },
+    {
+      "path": "2026/day-09/REVIEW_NOTES.md",
+      "sha256": "b2e502a8b68ad38de14570cc8eef8c12dc5b17f4a3e6120439b42e2acf8ee9a7"
+    },
+    {
+      "path": "2026/day-10/Additional_Resources/README.md",
+      "sha256": "5f34b6b6d7d09bf24d7bdd7805893f7cc725d263673bbae1c4bfdb8ba95e17af"
+    },
+    {
+      "path": "2026/day-10/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-10/Original_Assignment/README.md",
+      "sha256": "443b2a63f9327735faadaebde81a3eee18557c2ca95f7f4d0bbf5ef20a285524"
+    },
+    {
+      "path": "2026/day-10/README.md",
+      "sha256": "0be3fb164d7b93c8fb8d979686ae8b9590087f4116faae080fc9c71b6fb59381"
+    },
+    {
+      "path": "2026/day-10/REVIEW_NOTES.md",
+      "sha256": "ff6a83d3c2998b75226ec85e9e0e520f8176591f179faef7540c30968be9d2db"
+    },
+    {
+      "path": "2026/day-11/Additional_Resources/README.md",
+      "sha256": "e1b5c6c21f4258d0b7fa26ee5b186bd7b048771d5406d7fae12832df38fb36a2"
+    },
+    {
+      "path": "2026/day-11/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-11/Original_Assignment/README.md",
+      "sha256": "fbae00e0b6a80ad9f8e30ba64e0a3af769d1c944711e85772cdcd0e92dfb946f"
+    },
+    {
+      "path": "2026/day-11/README.md",
+      "sha256": "e6bb1720b1de5b5296a6a29613fe2117e8dd5ca13b8c2ed2598544348dd3bebb"
+    },
+    {
+      "path": "2026/day-11/REVIEW_NOTES.md",
+      "sha256": "9638725d1e8cc497546fb03c09399087a9b8be4b0a0a99c2602ef78684eabd27"
+    },
+    {
+      "path": "2026/day-12/Additional_Resources/README.md",
+      "sha256": "8be16135d1fc060c59487e3dffe27ee03fc9410dfce9f2116036102fb8a98063"
+    },
+    {
+      "path": "2026/day-12/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-12/Original_Assignment/README.md",
+      "sha256": "cfc4e9111dad2b155262f207482dbee69bf023206287212e97263bc325c0b360"
+    },
+    {
+      "path": "2026/day-12/README.md",
+      "sha256": "6a61d49fd9329ff03d5a1b81e342c164812af115191ffa76d06724acfbdeae5f"
+    },
+    {
+      "path": "2026/day-12/REVIEW_NOTES.md",
+      "sha256": "6bf61cfc8ced992a4a28e37ccd6257c20b6b7a5337130bf6b4d330ab9ec93794"
+    },
+    {
+      "path": "2026/day-13/Additional_Resources/README.md",
+      "sha256": "afb6b674421bee2a4e95c6a052ba38a36b6abe3eb53dda207e0801bd57ad30a7"
+    },
+    {
+      "path": "2026/day-13/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-13/Original_Assignment/README.md",
+      "sha256": "5d9311bcd04ec9792a10a8f2b5990929659957f02c498d60136dbef5f7f53457"
+    },
+    {
+      "path": "2026/day-13/README.md",
+      "sha256": "47791d07766fe0cf12606bbd77f6abb958d6234c7b1c20a26eceae6bc0b2e154"
+    },
+    {
+      "path": "2026/day-13/REVIEW_NOTES.md",
+      "sha256": "a77db1e9907f6cebf25cc29ef77d986a5e0aaa6c9d6bab638b0bbdcf8af4ec2e"
+    },
+    {
+      "path": "2026/day-14/Additional_Resources/README.md",
+      "sha256": "5a03b00846197a9a7b3aeaa8476f83bac82deb6df5cb2cbf88ef26df118ff904"
+    },
+    {
+      "path": "2026/day-14/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-14/Original_Assignment/README.md",
+      "sha256": "ca5cc33684de2b186dbfe5fb0e5e1fc2d755e816526e17e0d34831aa6740b036"
+    },
+    {
+      "path": "2026/day-14/README.md",
+      "sha256": "2b10d86901d06178222b8625799756f5516e96af835243623baeb0d4be7afe99"
+    },
+    {
+      "path": "2026/day-14/REVIEW_NOTES.md",
+      "sha256": "ad53cc5564fd9be212531932f9cb4724f6907d1f0fd58af5150493922a3ad0f0"
+    },
+    {
+      "path": "2026/day-15/Additional_Resources/README.md",
+      "sha256": "ad937d68841fe528a44fc2dbee1c885e0f74789a1b253e7cc6763be06b2e91ba"
+    },
+    {
+      "path": "2026/day-15/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-15/Original_Assignment/README.md",
+      "sha256": "3615b527b23eb49e9eb9ec2f688b7a7cd6d2247ea49370d73dec4063b2b4458d"
+    },
+    {
+      "path": "2026/day-15/README.md",
+      "sha256": "46aaba01acc630d8f6e85926572750f3563e5a151b1cd07439987410aaa684e3"
+    },
+    {
+      "path": "2026/day-15/REVIEW_NOTES.md",
+      "sha256": "cb54ef85482ff85ac3f2fe7ed316ef7642a9df0926afaf722d309f58cac822d3"
+    },
+    {
+      "path": "2026/day-16/Additional_Resources/README.md",
+      "sha256": "16a2623b8099307c507b66c0f9e040745270fb899716ea2ae823619f522d4386"
+    },
+    {
+      "path": "2026/day-16/FILE_MOVE_MAP.csv",
+      "sha256": "ac61b851fe8fa16a0160f1715ddf67056f5427cebe51ecee2d7f04d6d1c48e38"
+    },
+    {
+      "path": "2026/day-16/Original_Assignment/README.md",
+      "sha256": "1fea5a4ab0bfe19f6e9c2ba64177919c85b13bffa4c2a796b1fba899ee657491"
+    },
+    {
+      "path": "2026/day-16/README.md",
+      "sha256": "fb2292b333d6aafd9684076f9195aa48da91e2407ec76a61e835a14befee33ea"
+    },
+    {
+      "path": "2026/day-16/REVIEW_NOTES.md",
+      "sha256": "322e55566f8396fa4b79388bcd8b7c1494d4843cfa29e6538bf3df36f75de82b"
+    },
+    {
+      "path": "FILE_MOVE_MAP.csv",
+      "sha256": "8eac3fdc5f064e800f211082ac89d367d712a7bce31f65fd09f18550b86dfd53"
+    },
+    {
+      "path": "MIGRATION_GUIDE.md",
+      "sha256": "9896339e36af945fa7a0c99d6ae9e1a935bb02123c407b565cf0e384d9cb19ad"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/00-Course-Overview/Progress-Tracker.md",
+      "sha256": "73a58e6ced051e7ff84dc90458c7cc6da0d244b581371f061c941febb798a3dd"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/Notes-English.md",
+      "sha256": "1f7c75f1e2f940128e15664570c8b534cd449176954eaf23c3ecb2278c7134c3"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/Notes-Roman-Urdu.md",
+      "sha256": "e24e3eeae196f26b9bf125f7026467954058f02fec6a030a08684e01e6a60422"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/01-Class-Notes/Day-01-Course-Kickoff/README.md",
+      "sha256": "dfb1f2c62be02e4c3b1791b09feddbeb9590232680e0c96cfdcb5c99c9ec8e05"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-English.md",
+      "sha256": "e9456964a1e92e6bd780155286c771fa65db2063b5dca3ef964f48aa9710b483"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/02-Topic-Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-Roman-Urdu.md",
+      "sha256": "e63e8090c27416b9df11d9a3ae698757b841ea502227228dc268bddf167fdc1a"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md",
+      "sha256": "eff3e994b58c2e577aefa01f0855076bc069a8e30386ae7089545cca3d165a07"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md",
+      "sha256": "32f87c1530f555bdce2fac3ac578c4b329b1a46145933f2430830c37341cf91b"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/05-Revision/Day-01/README.md",
+      "sha256": "68325d9c595940044072b5f4f17c32d5fcd8d8d20398a72cadb89d0118c9582d"
+    },
+    {
+      "path": "Migration_Archive/Original_Files/README.md",
+      "sha256": "2a30ea61cdf0bb6b4b7e665a0d572449adbd8ff409a2b499a09680cd99b30352"
+    },
+    {
+      "path": "Migration_Archive/Original_Setup/setup-azure-study.sh",
+      "sha256": "434d17e1a99020282eac40ad55675cf6abb880a6d245805274716ba9b1cf6b92"
+    },
+    {
+      "path": "Migration_Archive/README.md",
+      "sha256": "d1f5fd2ab27e41d4b3d7f0ef07ddb96b1d4aa97652b765f3ad9bf445487c70b2"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5b2cd667e2691a1630a7672a1c60c4247d24a740cc5ad6ba68a53e90aae49358"
+    },
+    {
+      "path": "REVIEW_NOTES.md",
+      "sha256": "565a2f02f5cdd303529eae95e949bff6eea4302c9cdac6cc0eed7aaddb1c9ffd"
+    },
+    {
+      "path": "Review_Items/README.md",
+      "sha256": "d7c98bb439cd92aeb555de34d24074641added29abcc6b6d24ff0b95c0558d5c"
+    },
+    {
+      "path": "Review_Items/Unassigned_Linux_File/day-07/Additional_Resources/Linux-Filesystem-and-Troubleshooting-Study-Guide.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Shared_Resources/Evidence/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Shared_Resources/Labs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Shared_Resources/Projects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Shared_Resources/README.md",
+      "sha256": "8c7770fc5eac2aca4495a3fba35acc686e3a6313fd8bacbd56e8947e0e8c718e"
+    },
+    {
+      "path": "Shared_Resources/Topic_Notes/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Shared_Resources/Topic_Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-English.md",
+      "sha256": "6a7b42278c0e517ebb1f1c854fa956d262e4cc2dea560cf1f2581e8b5b1027b4"
+    },
+    {
+      "path": "Shared_Resources/Topic_Notes/IT-Infrastructure-Core-Terms/IT-Infrastructure-Core-Terms-Roman-Urdu.md",
+      "sha256": "3418b5122ad2497592165ae4b42c14ea5422ebca70195eadca7994df85215438"
+    },
+    {
+      "path": "Shared_Resources/Topic_Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md",
+      "sha256": "26f103788a345f8a774d27966c30181de102977d0ffb524725a15d807758fcdd"
+    },
+    {
+      "path": "Shared_Resources/Topic_Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md",
+      "sha256": "e98f4cf93c1177ef581ef9fb38370eaed3011af408953c9328d8349f5365ff32"
+    },
+    {
+      "path": "Shared_Resources/Troubleshooting/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "VALIDATION_REPORT.md",
+      "sha256": "5fc54a8b1fa22a1f0def3c71f82774393167cd246465e23d51480dc7f425ff82"
+    },
+    {
+      "path": "tools/apply-layout.py",
+      "sha256": "d2dbe9ea0a1e9f4671bb34454718ca71c4b27897a4a77b7fc652cc306c4b55fc"
+    }
+  ]
+}

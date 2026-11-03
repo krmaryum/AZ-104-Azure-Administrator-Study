@@ -1,38 +1,45 @@
 # AZ-104 — Azure Administrator Study
 
-My Microsoft Azure Administrator learning journey, including English
-and Roman Urdu notes, hands-on labs, troubleshooting, and revision.
+My Microsoft Azure Administrator learning journey, with English and Roman Urdu notes, original class materials, practical work and revision.
 
-## Study Resources
+## Start Here
 
-- [Study Plan](00-Course-Overview/Study-Plan.md)
-- [Progress Tracker](00-Course-Overview/Progress-Tracker.md)
-- [Day 01 — English](01-Class-Notes/Day-01-Course-Kickoff/Notes-English.md)
-- [Day 01 — Roman Urdu](01-Class-Notes/Day-01-Course-Kickoff/Notes-Roman-Urdu.md)
-- [Home Broadband vs Dedicated Internet — English](02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-English.md)
-- [Home Broadband vs Dedicated Internet — Roman Urdu](02-Topic-Notes/Networking/Home-Broadband-vs-Dedicated-Internet-Roman-Urdu.md)
+- [2026 class index — Day 01 to Day 16](2026/README.md)
+- [Day 01 — Course Kickoff & Orientation](2026/day-01/README.md)
+- [Study plan](00-Course-Overview/Study-Plan.md)
+- [Progress tracker](00-Course-Overview/Progress-Tracker.md)
+- [Shared resources](Shared_Resources/README.md)
+- [Reorganization review](REVIEW_NOTES.md)
+- [Safe migration instructions](MIGRATION_GUIDE.md)
 
+## Organization
 
-## Repository Sections
-
-| Folder | Contents |
+| Location | Purpose |
 |---|---|
-| 00-Course-Overview | Study plan and progress tracker |
-| 01-Class-Notes | Notes organized by class |
-| 02-Topic-Notes | Consolidated technical explanations |
-| 03-Labs | Lab instructions, verification, and cleanup |
-| 04-Troubleshooting | Problems, investigations, and solutions |
-| 05-Revision | Glossary and revision questions |
-| 06-Evidence | Reviewed screenshots and lab results |
-| 07-Projects | Projects combining multiple skills |
+| 2026/day-XX/README.md | The class title, recording, topics and links |
+| Original_Assignment/ | Original trainer materials and assignments, if supplied |
+| Additional_Resources/ | Bilingual notes, practice, revision, and class-specific lab material |
+| FILE_MOVE_MAP.csv | Files moved into that class |
+| REVIEW_NOTES.md | Open questions and material checks |
+| 00-Course-Overview/ | Study plan and personal progress |
+| Shared_Resources/ | Reusable topic notes and cross-class work |
+| Review_Items/ | Unassigned material preserved for review |
+| Migration_Archive/ | Original versions of files edited during reorganization and the old setup script |
+
+## Session Count
+
+Two weekend classes per week. **16 classes is currently an estimate.** Days 02–16 reserve locations without assigning unconfirmed topics or dates. Add more days if the course continues.
 
 ## Learning Method
 
 Understand → Practise → Verify → Explain → Review
 
-## Publishing Guidelines
+Read original material, use the notes, perform applicable exercises, verify outcomes, and record your own progress. Notes being available does not prove a skill has been demonstrated.
 
-- Publish your own notes and lab documentation.
-- Obtain permission before publishing trainer materials.
-- Never commit passwords, keys, tokens, or sensitive screenshots.
-- Review staged changes before every commit.
+## Live Day 01 Quiz
+
+[IT Infrastructure, Data Centers & SLA Quiz](https://khalidkhan.me/mcqs/AZ-104/AZ-104-Day-01-Infrastructure-Data-Centers-and-SLA.html)
+
+## Sharing Materials
+
+Preserve trainer originals. Publish your own notes and lab work; obtain permission before publishing trainer-supplied content. Keep credentials and access tokens out of Git. Review staged changes before committing.
