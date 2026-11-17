@@ -33,3 +33,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Videos
+*.mp4
